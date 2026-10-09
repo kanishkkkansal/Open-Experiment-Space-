@@ -5,6 +5,7 @@
 Built by **Team Caffeine Coders** | Track: Education (Smart Education)
 
 ---
+🔗 **Live Demo:** https://openexperimentspacedesignenhanced-3-2jiphjxx4.vercel.app
 
 ## The Problem
 
